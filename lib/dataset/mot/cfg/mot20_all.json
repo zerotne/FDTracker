@@ -1,0 +1,15 @@
+{
+    "root":"../../../dataset/MOT",
+    "train":
+    {
+        "mot20":"../lib/dataset/mot/data/mot20.all"
+    },
+    "test_emb":
+    {
+        "mot20":"../lib/dataset/mot/data/mot20.test"
+    },
+    "test":
+    {
+        "mot20":"../lib/dataset/mot/data/mot20.test"
+    }
+}
